@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the change on file2_csv on master branch
+=======
+this is the change in file_2.csv in branch feature1
+>>>>>>> feature1
